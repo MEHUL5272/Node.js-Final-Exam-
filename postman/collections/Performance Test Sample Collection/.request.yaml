@@ -1,0 +1,7 @@
+$kind: http-request
+name: ""
+url: http://localhost:5000/api/attendance?date=2026-11-23
+method: GET
+queryParams:
+  date: 2026-11-23
+order: 1000
