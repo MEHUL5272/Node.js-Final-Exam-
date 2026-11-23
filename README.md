@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Attendance API
 
 A REST API built with **Node.js**, **Express.js**, **MongoDB**, and
@@ -281,3 +282,6 @@ Each faculty record contains:
 -   The API does not include a frontend login page.
 -   Do not upload `.env` or expose JWT tokens, database credentials, or
     real passwords in a public repository.
+=======
+# Node.js-Final-Exam-
+>>>>>>> ea096f90fc5ef24ee1159c7c922f980925f38ac4
